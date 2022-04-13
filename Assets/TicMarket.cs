@@ -14,10 +14,6 @@ public class TicMarket : MonoBehaviour
     public float Precio3;
     public float Cantidad3;
 
-    float descuento1 = 0;
-    float descuento2 = 0;
-    float descuento3 = 0;
-
     float total;
 
     float total1;
